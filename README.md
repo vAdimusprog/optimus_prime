@@ -39,9 +39,9 @@ BPE (Byte Pair Encoding) токенайзер - реализован с нуля
 
 Визуализация процесса обучения через дашборд Neptune
 
-![Лоссы](https://github.com/optimus_prime/bot_for_RAG/raw/main/images/loss.jpg)
+![Лоссы](https://github.com/optimus_prime/bot_for_RAG/images/loss.jpg)
 
-![Метрика](https://github.com/optimus_prime/bot_for_RAG/raw/main/images/BLUE.jpg)
+![Метрика](https://github.com/optimus_prime/bot_for_RAG//images/BLUE.jpg)
 
 
 Сохранение прогресса
